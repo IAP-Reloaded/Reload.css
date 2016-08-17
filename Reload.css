@@ -1,8 +1,12 @@
-.rld-highlighter { background-color: yellow; }
-.rld-highlighter-black { background-color: black; color: white; }
-.rld-highlighter-white { background-color: white; color: black; }
-.rld-select-osx::selection { background-color: #b4d5fe; }
+.rld-highlight-yellow { background-color: yellow; color: black; }
+.rld-highlight-black { background-color: black; color: white; }
+.rld-highlight-white { background-color: white; color: black; }
+.rld-highlight-rainbow{background-image:-webkit-gradient(linear,left top,right top,color-stop(0,#f22),color-stop(0.15,#f2f),color-stop(0.3,#22f),color-stop(0.45,#2ff),color-stop(0.6,#2f2),color-stop(0.75,#2f2),color-stop(0.9,#ff2),color-stop(1,#f22));background-image:gradient(linear,left top,right top,color-stop(0,#f22),color-stop(0.15,#f2f),color-stop(0.3,#22f),color-stop(0.45,#2ff),color-stop(0.6,#2f2),color-stop(0.75,#2f2),color-stop(0.9,#ff2),color-stop(1,#f22));color:transparent;-webkit-background-clip:text;background-clip:text}
+.rld-select-osx::selection, .rld-select::selection { background-color: #b4d5fe; }
+.rld-select-yellow::selection { background-color: yellow; color: black; }
 .rld-select-black::selection { background-color: black; color: white; }
 .rld-select-white::selection { background-color: white; color: black; }
+.rld-select-rainbow{background-image:-webkit-gradient(linear,left top,right top,color-stop(0,#f22),color-stop(0.15,#f2f),color-stop(0.3,#22f),color-stop(0.45,#2ff),color-stop(0.6,#2f2),color-stop(0.75,#2f2),color-stop(0.9,#ff2),color-stop(1,#f22));background-image:gradient(linear,left top,right top,color-stop(0,#f22),color-stop(0.15,#f2f),color-stop(0.3,#22f),color-stop(0.45,#2ff),color-stop(0.6,#2f2),color-stop(0.75,#2f2),color-stop(0.9,#ff2),color-stop(1,#f22));color:transparent;-webkit-background-clip:text;background-clip:text}
 .rld-color-black { color: black }
 .rld-color-white { color: white }
+.rld-color-rainbow{background-image:-webkit-gradient(linear,left top,right top,color-stop(0,#f22),color-stop(0.15,#f2f),color-stop(0.3,#22f),color-stop(0.45,#2ff),color-stop(0.6,#2f2),color-stop(0.75,#2f2),color-stop(0.9,#ff2),color-stop(1,#f22));background-image:gradient(linear,left top,right top,color-stop(0,#f22),color-stop(0.15,#f2f),color-stop(0.3,#22f),color-stop(0.45,#2ff),color-stop(0.6,#2f2),color-stop(0.75,#2f2),color-stop(0.9,#ff2),color-stop(1,#f22));color:transparent;-webkit-background-clip:text;background-clip:text}
