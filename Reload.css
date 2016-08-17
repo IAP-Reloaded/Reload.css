@@ -1,0 +1,8 @@
+.rld-highlighter { background-color: yellow; }
+.rld-highlighter-black { background-color: black; color: white; }
+.rld-highlighter-white { background-color: white; color: black; }
+.rld-select-osx::selection { background-color: #b4d5fe; }
+.rld-select-black::selection { background-color: black; color: white; }
+.rld-select-white::selection { background-color: white; color: black; }
+.rld-color-black { color: black }
+.rld-color-white { color: white }
